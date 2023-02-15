@@ -74,3 +74,6 @@
 // };
 // checkAverage(result, result1);
 // checkAverage(100, 2)
+const hello = () => {
+	console.log("hello world");
+};
